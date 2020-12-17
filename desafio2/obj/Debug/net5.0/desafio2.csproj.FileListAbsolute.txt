@@ -1,0 +1,16 @@
+C:\dio\desafios\desafio2\bin\Debug\net5.0\desafio2.exe
+C:\dio\desafios\desafio2\bin\Debug\net5.0\desafio2.deps.json
+C:\dio\desafios\desafio2\bin\Debug\net5.0\desafio2.runtimeconfig.json
+C:\dio\desafios\desafio2\bin\Debug\net5.0\desafio2.runtimeconfig.dev.json
+C:\dio\desafios\desafio2\bin\Debug\net5.0\desafio2.dll
+C:\dio\desafios\desafio2\bin\Debug\net5.0\ref\desafio2.dll
+C:\dio\desafios\desafio2\bin\Debug\net5.0\desafio2.pdb
+C:\dio\desafios\desafio2\obj\Debug\net5.0\desafio2.csprojAssemblyReference.cache
+C:\dio\desafios\desafio2\obj\Debug\net5.0\desafio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\dio\desafios\desafio2\obj\Debug\net5.0\desafio2.AssemblyInfoInputs.cache
+C:\dio\desafios\desafio2\obj\Debug\net5.0\desafio2.AssemblyInfo.cs
+C:\dio\desafios\desafio2\obj\Debug\net5.0\desafio2.csproj.CoreCompileInputs.cache
+C:\dio\desafios\desafio2\obj\Debug\net5.0\desafio2.dll
+C:\dio\desafios\desafio2\obj\Debug\net5.0\ref\desafio2.dll
+C:\dio\desafios\desafio2\obj\Debug\net5.0\desafio2.pdb
+C:\dio\desafios\desafio2\obj\Debug\net5.0\desafio2.genruntimeconfig.cache
